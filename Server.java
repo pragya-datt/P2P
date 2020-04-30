@@ -1,6 +1,7 @@
-import java.net 
+import java.net.*
 //to import ServerSocket and Socket class
 //used to define the server connection port number and to accept connections from client
+import java.io.*
 
 public class Server { 
   public static void main (String [] args ) throws IOException { 
